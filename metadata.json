@@ -1,0 +1,5 @@
+{
+  "name": "ScriptAlchemy",
+  "description": "An AI-powered application to analyze video scripts from SRT files, extract structural patterns, and generate a high-performing master script template.",
+  "requestFramePermissions": []
+}
